@@ -1,0 +1,28 @@
+<resources>
+    <version>1</version>
+    <item drawable="facebook" />
+    <item drawable="whatsapp" />
+    <item drawable="messenger" />
+    <item drawable="telegram" />
+    <item drawable="youtube" />
+    <item drawable="instagram" />
+    <item drawable="chrome" />
+    <item drawable="tiktok" />
+    <item drawable="gmail" />
+    <item drawable="maps" />
+    <item drawable="playstore" />
+    <item drawable="settings" />
+    <item drawable="phone" />
+    <item drawable="messages" />
+    <item drawable="camera" />
+    <item drawable="gallery" />
+    <item drawable="clock" />
+    <item drawable="calendar" />
+    <item drawable="calculator" />
+    <item drawable="spotify" />
+    <item drawable="snapchat" />
+    <item drawable="roblox" />
+    <item drawable="freefire" />
+    <item drawable="twitter_x" />
+    <item drawable="netflix" />
+</resources>
